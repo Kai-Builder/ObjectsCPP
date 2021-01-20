@@ -32,8 +32,10 @@
 ## Exclamation Module Building
 
 * [What Is a Module \(Following The ESTCG\)](exclamation-module-building/what-is-a-module-following-the-estcg.md)
+* [Building Your First Exclamation Extension](exclamation-module-building/building-your-first-exclamation-extension.md)
+* [Building the Base of the Module](exclamation-module-building/building-the-base-of-the-module.md)
 
 ---
 
-* [Building Your First Exclamation Extension](building-your-first-exclamation-extension.md)
+* [Parsing & Packaging With dip.Parse \(\)](parsing-and-packaging-with-dip.parse.md)
 
