@@ -23,8 +23,17 @@
 
 * [$Stdin](standard-input-output/usdstdin.md)
 * [Input Output Questions Asked](standard-input-output/input-output-questions-asked.md)
+* [$stdout](standard-input-output/usdstdout.md)
+
+## The ESTCG
+
+* [What Is the ESTCG \(And How to Install It\)](the-estcg/what-is-the-estcg-and-how-to-install-it.md)
+
+## Exclamation Module Building
+
+* [What Is a Module \(Following The ESTCG\)](exclamation-module-building/what-is-a-module-following-the-estcg.md)
 
 ---
 
-* [$stdout](usdstdout.md)
+* [Building Your First Exclamation Extension](building-your-first-exclamation-extension.md)
 
