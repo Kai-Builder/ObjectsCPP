@@ -24,5 +24,5 @@ When Working With the Exclamation API, You'll Be Using this function for Debuggi
 
 Custom Functions Require An Initializer At the Beginning Of the File. If you Don't Know how to Export Variables, Check "Creating Modules With the C++ API And .exclaport Files, Page 7".
 
-Check the Next Page For 
+Check the Next Page For Some API Request Reference.
 

@@ -8,3 +8,23 @@
 * [Different Upgrades & Updates](begin-programming-with-the-c++-api/different-upgrades-and-updates.md)
 * [Working With C++](begin-programming-with-the-c++-api/working-with-c++.md)
 
+## Sending & Requesting Values With Exclamation
+
+* [What Are Value Requests?](sending-and-requesting-values-with-exclamation/what-are-value-requests.md)
+* [How To Use Value Requests \(And Why you should in Most Cases!\)](sending-and-requesting-values-with-exclamation/how-to-use-value-requests-and-why-you-should-in-most-cases.md)
+
+## Loops
+
+* [The For Loop](loops/the-for-loop.md)
+* [If Statement](loops/if-statement.md)
+* [Expression Inception \(Technically A Loop\)](loops/expression-inception-technically-a-loop.md)
+
+## Standard Input Output
+
+* [$Stdin](standard-input-output/usdstdin.md)
+* [Input Output Questions Asked](standard-input-output/input-output-questions-asked.md)
+
+---
+
+* [$stdout](usdstdout.md)
+
